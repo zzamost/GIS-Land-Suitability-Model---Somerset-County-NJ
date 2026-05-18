@@ -1,0 +1,2 @@
+Geo-processing tools: Weighted, Zonal Statistics as Table, Euclidean Distance, Reclassify, Feature to Raster, Buffer, Clip, Erase, Select by Location, Select by Attributes, Spatial Join, Hot Spot Analysis (Getis-Ord Gi*), Frequency, Circular Pattern (for LULC summarization). 
+Spatial Analysis Methods: Multi-Criteria weighted overlay analysis, Sequential constraint-based parcel screening, Euclidean distance proximity analysis, Raster reclassification and scoring
